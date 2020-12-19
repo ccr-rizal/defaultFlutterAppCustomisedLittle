@@ -1,7 +1,7 @@
 # basicFlutterApp
 
-A new Flutter project.
-
+## I just tried to edit the basic or say the default flutte app we all get pre-built while creating a flutter app.
+## I tried to add a button with which we can reset the counter in the app which was missing there. And as a result users can only increase the counter but couldn't reset it so the problem is solved. I guesses so.....
 ## Getting Started
 
 This project is a starting point for a Flutter application.
